@@ -1,0 +1,14 @@
+<html> 
+   <head>
+        <title>
+             Jual Kemeja Murah dan Berkualitas
+        </title>
+   </head>
+
+   <body>
+        <img src="images/polo-logo.jpg" width="200"
+        <h1>
+             Selamat datang di website online 
+        </h1>
+   </body>
+</html>
